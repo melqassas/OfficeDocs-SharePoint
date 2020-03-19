@@ -65,8 +65,6 @@ The configuration database contains data about the following:
     
 - Site templates
     
-- Web applications
-    
 - Distributed Cache configuration objects
     
     The configuration database tracks the state of all servers in the farm that run the Distributed Cache service.
